@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate fullstack developer and aspiring data scientist from germany.</h3>
+<h3 align="center">A passionate Fullstack Developer and Aspiring Data Scientist from Germany.</h3>
 
 - 👨‍💻 All of my projects are available at [https://kevin-kunkel.netlify.app/](https://kevin-kunkel.netlify.app/)
 
