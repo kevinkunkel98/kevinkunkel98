@@ -33,11 +33,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,astrojs,mongodb,mysql,spring,flask,django" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,astro,mongodb,mysql,spring,flask,django" /><br>
 </div>
-
-<br/>
-<hr/>
 
 <hr/>
 
