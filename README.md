@@ -36,23 +36,4 @@
     <img src="https://skillicons.dev/icons?i=arch,vscode,nodejs,react,astro,mongodb,mysql,spring,flask,django" /><br>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinkunkel98&show_icons=true&locale=en" alt="kevinkunkel98" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinkunkel98&" alt="kevinkunkel98" /></p>langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
 <br/>
