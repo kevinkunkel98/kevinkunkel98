@@ -32,20 +32,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,java,mysql,spring,flask,django" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,astrojs,mongodb,mysql,spring,flask,django" /><br>
 </div>
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevinkunkel98/kevinkunkel98/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
