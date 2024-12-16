@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=linux,arch,vscode,nodejs,react,astro,mongodb,kubernetes,spring,flask,django" /><br>
 </div>
 
-<br/>
+<hr/>
 
 <!-- Latest Blogposts Section -->
 <h2 align="center">📚 Latest-Blogposts 📚</h2>
