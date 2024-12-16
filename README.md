@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **minimalistic content pages**
  
- 🌱 I’m currently learning **Atrojs, React, Rust**
+ 🌱 I’m currently learning **Astrojs, React, Rust**
 
 💬 Ask me about **Fullstack, Data Science, ... or Web.**
 
