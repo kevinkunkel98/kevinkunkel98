@@ -37,7 +37,7 @@
 <br/>
 
 <!-- Latest Blogposts Section -->
-<h2 align="center">📚 Latest Blogposts 📚</h2>
+<h2 align="center">📚 Latest-Blogposts 📚</h2>
 <br/>
 <div align="center">
     <ul style="list-style-type:none;">
