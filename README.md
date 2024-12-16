@@ -39,14 +39,27 @@
 <!-- Latest Blogposts Section -->
 <h2 align="center">📚 Latest Blogposts 📚</h2>
 <br/>
-<div align="center">
-    <ul style="list-style-type:none;">
-        <li><a href="https://kevin-kunkel.netlify.app/posts/aur/" target="_blank">Introducing the AUR</a></li>
-        <li><a href="https://kevin-kunkel.netlify.app/posts/battery-optimization/" target="_blank">Battery Optimization with TLP</a></li>
-        <li><a href="https://kevin-kunkel.netlify.app/posts/kde-arch-rice/" target="_blank">My first KDE rice!</a></li>
-        <li><a href="https://kevin-kunkel.netlify.app/posts/discord-updater/" target="_blank">Fix Discords Auto Updater on Linux</a></li>
-        <li><a href="https://kevin-kunkel.netlify.app/posts/terminal-commands/" target="_blank">List of Important Linux Commands for Beginners</a></li>
-        <li><a href="https://kevin-kunkel.netlify.app/posts/how-to-change-the-boring-standard-theme-of-your-grub-bootloader-menu/" target="_blank">Theme your grub bootloader</a></li>
+<div style="display: flex; justify-content: center;">
+    <ul style="list-style-type: disc; text-align: left; padding-left: 20px;">
+        <li style="margin: 10px 0;">
+            <a href="/blog/how-to-ace-finals" style="text-decoration: none; color: #007acc;">How to Ace Your Computer Science Finals</a>
+        </li>
+        <li style="margin: 10px 0;">
+            <a href="/blog/top-programming-languages-2024" style="text-decoration: none; color: #007acc;">Top 10 Programming Languages in 2024</a>
+        </li>
+        <li style="margin: 10px 0;">
+            <a href="/blog/minimalistic-content-pages" style="text-decoration: none; color: #007acc;">Building Minimalistic Content Pages</a>
+        </li>
+        <li style="margin: 10px 0;">
+            <a href="/blog/rust-vs-javascript" style="text-decoration: none; color: #007acc;">Rust vs JavaScript: When to Use Which?</a>
+        </li>
+        <li style="margin: 10px 0;">
+            <a href="/blog/astro-react-overview" style="text-decoration: none; color: #007acc;">Why I'm Loving Astro and React for Web Development</a>
+        </li>
+        <li style="margin: 10px 0;">
+            <a href="/blog/linux-setup-for-developers" style="text-decoration: none; color: #007acc;">Setting Up Linux for Developers</a>
+        </li>
     </ul>
 </div>
 <br/>
+
