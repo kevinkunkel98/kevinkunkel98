@@ -14,7 +14,7 @@
 
 💬 Ask me about **Fullstack, Data Science, ... or Web.**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:kevinkunkeldev@gmail.com">
@@ -25,8 +25,8 @@
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -34,4 +34,19 @@
     <img src="https://skillicons.dev/icons?i=linux,arch,vscode,nodejs,react,astro,mongodb,kubernetes,spring,flask,django" /><br>
 </div>
 
+<br/>
+
+<!-- Latest Blogposts Section -->
+<h2 align="center">📚 Latest Blogposts 📚</h2>
+<br/>
+<div align="center">
+    <ul style="list-style-type:none;">
+        <li><a href="https://kevin-kunkel.netlify.app/posts/aur/" target="_blank">Introducing the AUR</a></li>
+        <li><a href="https://kevin-kunkel.netlify.app/posts/battery-optimization/" target="_blank">Battery Optimization with TLP</a></li>
+        <li><a href="https://kevin-kunkel.netlify.app/posts/kde-arch-rice/" target="_blank">My first KDE rice!</a></li>
+        <li><a href="https://kevin-kunkel.netlify.app/posts/discord-updater/" target="_blank">Fix Discords Auto Updater on Linux</a></li>
+        <li><a href="https://kevin-kunkel.netlify.app/posts/terminal-commands/" target="_blank">List of Important Linux Commands for Beginners</a></li>
+        <li><a href="https://kevin-kunkel.netlify.app/posts/how-to-change-the-boring-standard-theme-of-your-grub-bootloader-menu/" target="_blank">Theme your grub bootloader</a></li>
+    </ul>
+</div>
 <br/>
