@@ -36,6 +36,28 @@
 
 <hr/>
 
+
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<br/>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkunkel98&layout=compact&theme=dark&hide_border=true"
+    alt="Most Used Languages"
+  />
+    <img
+    src="https://github-readme-stats.vercel.app/api?username=kevinkunkel98&show_icons=true&theme=dark&hide_title=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <br/>
+</div>
+<br/>
+
+<hr/>
+
+
 <!-- Latest Blogposts Section -->
 <h2 align="center">📚 Latest Blogposts 📚</h2>
 <br/>
@@ -62,26 +84,6 @@
     </ul>
 </div>
 <br/>
-
-<hr/>
-
-
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br/>
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkunkel98&layout=compact&theme=dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-    <img
-    src="https://github-readme-stats.vercel.app/api?username=kevinkunkel98&show_icons=true&theme=dark&hide_title=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <br/>
-</div>
 
 
 
