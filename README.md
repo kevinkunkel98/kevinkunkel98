@@ -44,11 +44,11 @@
 <div align="center">
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkunkel98&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkunkel98&layout=compact&theme=radical&hide_border=true"
     alt="Most Used Languages"
   />
     <img
-    src="https://github-readme-stats.vercel.app/api?username=kevinkunkel98&show_icons=true&theme=dark&hide_title=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=kevinkunkel98&show_icons=true&theme=radical&hide_title=true&hide_border=true"
     alt="GitHub Stats"
   />
   <br/>
