@@ -40,7 +40,7 @@
 <h2 align="center">📚 Latest Blogposts 📚</h2>
 <br/>
 <div align="center">
-    <ul style="list-style-type: disc; list-style-position: inside; text-align: left; display: inline-block; padding-left: 0;">
+    <ul style="list-style-type: none; text-align: left; display: inline-block; padding-left: 0;">
         <li style="margin: 10px 0;">
             <a href="https://kevin-kunkel.netlify.app/posts/aur/" target="_blank">Introducing the AUR</a>
         </li>
@@ -62,5 +62,26 @@
     </ul>
 </div>
 <br/>
+
+<hr/>
+
+
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<br/>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkunkel98&layout=compact&theme=dark&hide_border=true"
+    alt="Most Used Languages"
+  />
+    <img
+    src="https://github-readme-stats.vercel.app/api?username=kevinkunkel98&show_icons=true&theme=dark&hide_title=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <br/>
+</div>
+
 
 
