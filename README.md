@@ -8,11 +8,11 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **minimalistic content pages**
+ 🔭 I’m currently working on **Minimalistic Content Pages**
 
- 🌱 I’m currently learning **Astrojs, React, Rust**
+ 🌱 I’m currently learning **Astrojs, React and Typescript**
 
-💬 Ask me about **Fullstack, Data Science, ... or Web.**
+💬 Ask me about **Fullstack, Machine Learning, ... or Web Technologies.**
 
 </div>
 
