@@ -12,7 +12,7 @@
 
  🌱 I’m currently learning **Astrojs, React and Typescript**
 
-💬 Ask me about **Fullstack, Machine Learning, ... or Web Technologies.**
+💬 Ask me about **Fullstack, Machine Learning, ... or World War II.**
 
 </div>
 
