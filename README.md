@@ -2,17 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋+I'm+Kevin+Kunkel!;" />
 </h1>
 
-<h3 align="center">A passionate software developer and computer science student from Germany 🇩🇪</h3>
+<h3 align="center">A passionate machine learning & ai engineer and computer science student from Germany 🇩🇪</h3>
 
 <br/>
 
 <div align="center">
 
- 🔭 I’m currently working on **Minimalistic Content Pages**
+ 🔭 I’m currently working on **Synergistic Intelligence: Designing Hybrid ML/LLM Architectures**
 
  🌱 I’m currently learning **Astrojs, React and Typescript**
 
-💬 Ask me about **Fullstack, Machine Learning, ... or World War II**
+💬 Ask me about **AI Engineering, Machine Learning, ... or World War II**
 
 </div>
 
