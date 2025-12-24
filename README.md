@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋+I'm+Kevin!;" />
 </h1>
 
-<h3 align="center">A passionate machine learning & ai engineer and computer science student from Germany 🇩🇪</h3>
+<h3 align="center">A passionate Machine Learning & AI Engineer and Computer Science Ttudent from Germany 🇩🇪</h3>
 
 <br/>
 
@@ -35,25 +35,6 @@
 </div>
 
 <hr/>
-
-
-
-<h2 align="center">GitHub-Stats</h2>
-<br/>
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkunkel98&layout=compact&theme=radical&hide_border=true"
-    alt="Most Used Languages"
-  />
-    <img
-    src="https://github-readme-stats.vercel.app/api?username=kevinkunkel98&show_icons=true&theme=radical&hide_title=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <br/>
-</div>
-<br/>
 
 
 
