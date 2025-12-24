@@ -25,16 +25,12 @@
   </a>
 </div>
 
-<hr/>
-
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,tailwind,react,astro,git,bash,vim" />
     <img src="https://skillicons.dev/icons?i=sklearn,pytorch,matlab,obsidian,mongodb,docker,kubernetes,spring,flask,fastapi" /><br>
 </div>
-
-<hr/>
 
 
 
